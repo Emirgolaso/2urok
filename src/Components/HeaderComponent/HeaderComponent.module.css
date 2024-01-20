@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat:wght@300;600&display=swap');
+/* 
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+.nav {
+    display: flex;
+    justify-content: space-between;
+    width: 87%;
+    margin: 0 auto;
+    color: #fff;
+}
+
+.nav_navbar {
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.nav_navbar a {
+    text-decoration: none;
+    color: #fff;
+    transition: 0.3s all linear;
+}
+
+.nav_navbar li:hover a {
+    color: tomato;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .nav h1{
+    color: #222;
+    margin-left: 100px;
+}
+.nav .navbar {
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    font-family: 'Montserrat',sans-serif;
+}
+.navbar li{
+    text-decoration: none;
+    color: #222;
+    list-style: none;
+}
+.link{
+    text-decoration: none;
+    color: #222;
+} */
